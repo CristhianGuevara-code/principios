@@ -1,0 +1,14 @@
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\bin\Debug\net8.0\PrincipiosBasicosPOO.exe
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\bin\Debug\net8.0\PrincipiosBasicosPOO.deps.json
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\bin\Debug\net8.0\PrincipiosBasicosPOO.runtimeconfig.json
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\bin\Debug\net8.0\PrincipiosBasicosPOO.dll
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\bin\Debug\net8.0\PrincipiosBasicosPOO.pdb
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.AssemblyInfoInputs.cache
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.AssemblyInfo.cs
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.dll
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\refint\PrincipiosBasicosPOO.dll
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.pdb
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\PrincipiosBasicosPOO.genruntimeconfig.cache
+C:\Users\Cristhian Guevara\source\repos\PrincipiosBasicosPOO\obj\Debug\net8.0\ref\PrincipiosBasicosPOO.dll
